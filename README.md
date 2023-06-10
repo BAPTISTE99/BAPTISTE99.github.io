@@ -29,3 +29,18 @@ Si vous avez des questions, des commentaires ou si vous souhaitez discuter de pr
 Rejoignez-nous dans cette exploration passionnante de l'investissement en ligne !
 <a href="mailto:venomhacker30@gmail.com" class="contact-button">Contactez-moi</a>
 
+.dashboard-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #007bff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.dashboard-button:hover {
+  background-color: #007bff;
+  color: #fff;
+}
