@@ -27,4 +27,5 @@ Les contributions à ce référentiel sont les bienvenues ! Si vous souhaitez aj
 Si vous avez des questions, des commentaires ou si vous souhaitez discuter de projets d'investissement spécifiques, n'hésitez pas à me contacter par e-mail à [votre adresse e-mail] ou via [vos profils de médias sociaux].
 
 Rejoignez-nous dans cette exploration passionnante de l'investissement en ligne !
+<a href="mailto:venomhacker30@gmail.com" class="contact-button">Contactez-moi</a>
 
